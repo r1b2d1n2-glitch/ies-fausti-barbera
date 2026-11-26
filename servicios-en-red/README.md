@@ -2,5 +2,5 @@
 
 Configuración de servicios de red.
 
-- **Docente:** Pendiente
+- **Docente:** Enrique Galduf
 - **Curso:** 2.º SMR (2026/2027)
