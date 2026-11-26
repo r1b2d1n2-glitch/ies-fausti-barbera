@@ -2,5 +2,5 @@
 
 Contenidos complementarios de informática.
 
-- **Docente:** Raúl Martínez
+- **Docente:** Pilar Perelló
 - **Curso:** 2.º SMR (2026/2027)
