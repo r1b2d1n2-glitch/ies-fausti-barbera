@@ -2,5 +2,5 @@
 
 Preparación para el mundo laboral.
 
-- **Docente:** Pendiente
+- **Docente:** Noelia Palomino
 - **Curso:** 2.º SMR (2026/2027)
