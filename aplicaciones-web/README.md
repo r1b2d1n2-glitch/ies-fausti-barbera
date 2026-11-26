@@ -2,5 +2,5 @@
 
 Creación y uso de aplicaciones web.
 
-- **Docente:** Pendiente
+- **Docente:** Sergio Laguna
 - **Curso:** 2.º SMR (2026/2027)
