@@ -2,5 +2,5 @@
 
 Uso de tecnologías digitales en empresas.
 
-- **Docente:** Pendiente
+- **Docente:**Juan Antonio Gomez
 - **Curso:** 2.º SMR (2026/2027)
